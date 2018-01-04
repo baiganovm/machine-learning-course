@@ -1,6 +1,6 @@
 
 # Fire up graphlab create
-
+Using Jupyter Notebook
 
 ```python
 import graphlab
